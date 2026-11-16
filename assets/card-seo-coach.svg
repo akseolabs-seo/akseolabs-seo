@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="250" viewBox="0 0 590 250" role="img" aria-label="SEO Coach. An AI coach for SEO beginners. Practice on your own site, one step you can verify at a time, without paid tools.">
+<style>
+.tag { font: 600 13px 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #00e599; letter-spacing: 1.5px; }
+.title { font: 800 30px Inter, 'Segoe UI', -apple-system, Helvetica, Arial, 'Microsoft JhengHei', 'PingFang TC', sans-serif; fill: #f2f6f3; letter-spacing: -0.3px; }
+.desc { font: 400 17px Inter, 'Segoe UI', -apple-system, Helvetica, Arial, 'Microsoft JhengHei', 'PingFang TC', sans-serif; fill: #b9c4be; }
+.url { font: 500 13px 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8a978f; }
+.dot { animation: pulse 2.4s ease-in-out infinite; }
+@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x=".5" y=".5" width="589" height="249" rx="16" fill="#121a17" stroke="#222d29"/>
+<rect x="0" y="34" width="3" height="40" rx="1.5" fill="#00e599"/>
+<circle class="dot" cx="40" cy="47" r="4" fill="#00e599"/>
+<text class="tag" x="54" y="52">SKILL · SEO</text>
+<text class="title" x="34" y="92">SEO Coach</text>
+<text class="desc" x="34" y="128">An AI coach for SEO beginners. Practice on your</text><text class="desc" x="34" y="155">own site, one step you can verify at a time,</text><text class="desc" x="34" y="182">without paid tools.</text>
+<line x1="34" y1="200" x2="556" y2="200" stroke="#222d29"/>
+<text class="url" x="34" y="228">akseolabs-seo/seo-coach</text>
+
+<text class="url" x="556" y="228" text-anchor="end" fill="#00e599" style="fill:#00e599">OPEN →</text>
+</svg>
